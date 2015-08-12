@@ -1,0 +1,7 @@
+{
+  "name": "app-route",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0",
+    "page": "visionmedia/page.js"
+  }
+}
